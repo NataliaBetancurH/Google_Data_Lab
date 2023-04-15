@@ -1,3 +1,3 @@
-# Google_Data_Lab
+# Hands-on Lab: Analyzing Historical Stock/Revenue Data and Building a Dashboard
 
 Analyzing Historical Stock/Revenue Data and Building a Dashboard
